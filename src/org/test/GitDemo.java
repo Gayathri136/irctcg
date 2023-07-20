@@ -6,4 +6,8 @@ public class GitDemo {
 		
 		System.out.println("This is GIT demo");
 	}
+	
+	private void Gayu() {
+		System.out.println("Gayu");
+	}
 }
